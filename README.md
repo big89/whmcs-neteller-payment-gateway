@@ -2,6 +2,8 @@ For integration with your WHMCS, Contact us : bhagwansahane89@gmail.com
 
 # WHMCS Neteller Payment Gateway
 
+For detail api integration guide : https://paysafegroup.github.io/neteller_rest_api_v1
+
 # NETELLERgo Hosted Payment
 
 # Getting Started
@@ -132,8 +134,6 @@ TND 	    453523858985 	netellertest_TND@neteller.com 	588931 	    NTt3st1!
 TWD 	    451723748785 	netellertest_TWD@neteller.com 	711009 	    NTt3st1!
 USD 	    454651018446 	netellertest_USD@neteller.com 	270955 	    NTt3st1!
 ZAR 	    453523842837 	netellertest_ZAR@neteller.com 	708904 	    NTt3st1!
-
-For detail api integration guide : https://paysafegroup.github.io/neteller_rest_api_v1 
 
 
 For integration with your WHMCS, Contact us : bhagwansahane89@gmail.com
