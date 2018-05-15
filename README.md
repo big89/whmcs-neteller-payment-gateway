@@ -1,4 +1,4 @@
-For integration with your WHMCS, Contact us : bhagwansahane89@gmail.com
+For integration with your WHMCS, visit http://logicmaker.in or email us at : support@logicmaker.in
 
 # WHMCS Neteller Payment Gateway
 
@@ -136,4 +136,4 @@ USD 	    454651018446 	netellertest_USD@neteller.com 	270955 	    NTt3st1!
 ZAR 	    453523842837 	netellertest_ZAR@neteller.com 	708904 	    NTt3st1!
 
 
-For integration with your WHMCS, Contact us : bhagwansahane89@gmail.com
+For integration with your WHMCS, visit http://logicmaker.in or email us at : support@logicmaker.in
